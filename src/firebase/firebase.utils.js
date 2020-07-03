@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyDidPGqHTwWUtGN0IgDFPa-S1wFhfCu_6E",
+  apiKey: //!CHANGE,
   authDomain: "online-shop-e04ec.firebaseapp.com",
   databaseURL: "https://online-shop-e04ec.firebaseio.com",
   projectId: "online-shop-e04ec",
